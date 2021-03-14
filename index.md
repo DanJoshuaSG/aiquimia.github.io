@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenidos a AI Quimia
 
-You can use the [editor on GitHub](https://github.com/DanJoshuaSG/aiquimia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+AI Quimia es una comunidad abierta para todo el público. Creemos que la forma más rápida para aprender es enseñar. Por eso desde aquí construiremos materiales que nos permitan entender más rápido aplicaciones de Inteligencia artificial y ciencia de datos en campos relacionados a química.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
